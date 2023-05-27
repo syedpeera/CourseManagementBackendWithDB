@@ -1,1 +1,1 @@
-# CourseManagementBackendWithDB
+# CourseManagementBackendPractice
